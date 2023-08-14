@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo {
+    width: 120px;
+    border-radius: 100%;
+}
+p{
+    font-size: 0.5rem;
+color: red;
+font-family: 'Roboto', sans-serif;
+}
+.imgSato {
+    width: 500px;
+    margin: 4rem 0 10rem 10rem;
+    /* padding: 1,5rem; */
+    border-radius: 3rem;
+    box-shadow: 2px 2px 6px black;
+}
+main{
+    padding: 2rem;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    border: 2px solid red;
+    padding: 1rem;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin: 1rem 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secu{
+    background: green;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900px;
+    border-radius: 6rem;
+    box-shadow: 2px 2px 6px black;
+}
+.papu{
+    width: 120px;
+}
+.dias{
+    font-weight: 600;
+    font-size: 135%;
+    padding: 1rem;
+    color: #0794ad;
+}
+table{
+    text-align: center;
+    margin: 2rem 0 6rem 10rem;
+    border: 5px dashed #000000;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 6px black;
+}
+.horario{
+    font-family: cursive;
+    font-size: 130%;
+    padding: 1rem;
+    color: rgb(139, 168, 72);
+}
+ul {
+    text-align: justify;
+    display: flex;
+    gap: 1rem;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    font-size: 150%;
+    color: white; 
+    margin-top: auto;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+body{
+    border: 2px solid rgb(141, 170, 36);
+    background-image: linear-gradient(rgb(16, 16, 16, 0.7), rgb(16, 16, 16, 0.7)), url(../img/jujutsu_kaisen_manga_vs_anime.jpg_1075640366.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.navbar{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(211, 13, 13);
+    border-radius: 4px;
+}
+.principal{
+    letter-spacing: 6px;
+    text-shadow: 0 0 8px greenyellow;
+}
+.Suku{
+    margin: 4rem 0 10rem 10rem;
+    width: 500px;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 6px black;
+}
+nav{
+    margin-top: 10px;
+    background: rgb(245, 3, 3);
+    width: 100%;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+.wspContainer{
+    background-color: rgb(35, 214, 18);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+
+    display: grid;
+    place-items: center;
+    box-shadow: 2px 2px 4px black;
+}
+.wsplogo{
+    color: white;
+    font-size: 2.7rem;
+}
+header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 1rem;
+}
+.nabvar{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 1rem;
+}
+.prin2{
+    border: none;
+    border-radius: 4px;
+    height: 30px;
+    padding: 8px;
+}
+.prin{
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 2px 2px 4px black;
+    height: 30px;
+}
+.imgSato:hover{
+    transform: translate(-4px); 
+    box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+    transition: all 300ms;
+}
+li:hover{
+   transform: translate(-4px); 
+   box-shadow: 4px 4px rgb(12, 9, 9);
+   transition: all 300ms;
+}
+.contact_form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact_form form{
+    background: violet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 3rem;
+}
+input{
+    margin-bottom: 2rem;
+    border-radius: 6px;
+    border: none;
+    height: 20px;
+    box-shadow: 0 0 4px #000000;
+    padding: 6px 10px
+}
+.hidden{
+    visibility: hidden;
+}
