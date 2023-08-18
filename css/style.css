@@ -15,9 +15,9 @@ p{
 }
 .imgSato {
     width: 500px;
-    margin: 2rem 0 4rem 4rem;
+    margin: 2rem 0 0 4rem;
     /* padding: 1,5rem; */
-    border-radius: 3rem;
+    border-radius: 1rem;
     box-shadow: 2px 2px 6px black;
 }
 main{
@@ -46,6 +46,7 @@ p{
     font-weight: 900px;
     border-radius: 6rem;
     box-shadow: 2px 2px 6px black;
+    padding: 1rem 0;
 }
 .dias{
     font-weight: 600;
@@ -67,12 +68,14 @@ table{
     color: rgb(139, 168, 72);
 }
 ul {
-    text-align: justify;
     display: flex;
+    margin: 0;
     gap: 1rem;
 }
 li{
     list-style: none;
+    padding: 8px;
+    border: 2px solid #000000;
 }
 a{
     text-decoration: none;
@@ -97,10 +100,9 @@ body{
     display: flex;
     flex-direction: column;
 }
-.navbar{
+.header_navbar{
     color: black;
     font-family: 'Roboto', sans-serif;
-    background: rgb(211, 13, 13);
     border-radius: 4px;
 }
 .principal{
@@ -108,7 +110,7 @@ body{
     text-shadow: 0 0 8px greenyellow;
 }
 .Suku{
-    margin: 2rem 0 4rem 4rem;
+    margin: 2rem 0 0 4rem;
     width: 500px;
     border-radius: 1rem;
     box-shadow: 2px 2px 6px black;
@@ -254,9 +256,9 @@ input{
 }
 .school{
     width: 500px;
-    margin: 2rem 0 4rem 4rem;
+    margin: 2rem 0 0 4rem;
     /* padding: 1,5rem; */
-    border-radius: 3rem;
+    border-radius: 1rem;
     box-shadow: 2px 2px 6px black;
 }
 .school:hover{
@@ -267,6 +269,7 @@ input{
 .cardcontainer{
     display: flex;
     justify-content: space-around;
+
 }
 .p3{
     font-size: 1.5rem;
