@@ -1,279 +1,277 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 .logo {
-    width: 120px;
-    border-radius: 100%;
-    padding: 0.5px;
+  width: 120px;
+  border-radius: 100%;
+  padding: 0.5px;
 }
-p{
- font-size: 0.5rem;
- color: red;
- font-family: 'Roboto', sans-serif;
+p {
+  font-size: 0.5rem;
+  color: red;
+  font-family: "Roboto", sans-serif;
 }
 .imgSato {
-    width: 500px;
-    margin: 2rem 0 0 4rem;
-    /* padding: 1,5rem; */
-    border-radius: 1rem;
-    box-shadow: 2px 2px 6px black;
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  /* padding: 1,5rem; */
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
 }
-main{
-    padding: 2rem;
-    font-family: 'Roboto', sans-serif;
+main {
+  padding: 2rem;
+  font-family: "Roboto", sans-serif;
 }
-section{
-    padding: 1rem;
+section {
+  padding: 1rem;
 }
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-p{
-    margin: 1rem 0;
-    text-align: center;
-    background-color: rgba(3, 3, 3, 0.397);
-    color: white;
-    padding: 1rem;
-    font-size: 1.2rem;
-    font-family: Arial, Helvetica, sans-serif;
+p {
+  margin: 1rem 0;
+  text-align: center;
+  background-color: rgba(3, 3, 3, 0.397);
+  color: white;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
 }
-.secu{
-    background: rgb(20, 171, 209);
-    font-size: 2rem;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 900px;
-    border-radius: 6rem;
-    box-shadow: 2px 2px 6px black;
-    padding: 1rem 0;
+.secu {
+  background: rgb(20, 171, 209);
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900px;
+  border-radius: 6rem;
+  box-shadow: 2px 2px 6px black;
+  padding: 1rem 0;
 }
-.dias{
-    font-weight: 600;
-    font-size: 135%;
-    padding: 1rem;
-    color: #0794ad;
+.dias {
+  font-weight: 600;
+  font-size: 135%;
+  padding: 1rem;
+  color: #0794ad;
 }
-table{
-    text-align: center;
-    margin: 2rem 10rem 6rem 10rem;
-    border: 5px solid #f30505;
-    border-radius: 1rem;
-    box-shadow: 2px 2px 6px black;
+table {
+  text-align: center;
+  margin: 2rem 10rem 6rem 10rem;
+  border: 5px solid #f30505;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
 }
-.horario{
-    font-family: cursive;
-    font-size: 130%;
-    padding: 1rem;
-    color: rgb(139, 168, 72);
+.horario {
+  font-family: cursive;
+  font-size: 130%;
+  padding: 1rem;
+  color: rgb(139, 168, 72);
 }
 ul {
-    display: flex;
-    margin: 0;
-    gap: 1rem;
+  display: flex;
+  margin: 0;
+  gap: 1rem;
 }
-li{
-    list-style: none;
-    padding: 8px;
-    border: 2px solid #000000;
+li {
+  list-style: none;
+  padding: 8px;
+  border: 2px solid #000000;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-footer{
-    font-size: 150%;
-    color: white; 
-    margin-top: auto;
-    display: flex;
+footer {
+  font-size: 150%;
+  color: white;
+  margin-top: auto;
+  display: flex;
 
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
 }
-body{
-    border: 2px solid rgb(29, 149, 197);
-    background-image: linear-gradient(rgb(16, 16, 16, 0.7), rgb(16, 16, 16, 0.7)), url(../img/jujutsu_kaisen_manga_vs_anime.jpg_1075640366.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    font-family: 'Roboto', sans-serif;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+body {
+  border: 2px solid rgb(29, 149, 197);
+  background-image: linear-gradient(rgb(16, 16, 16, 0.7), rgb(16, 16, 16, 0.7)),
+    url(../img/jujutsu_kaisen_manga_vs_anime.jpg_1075640366.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
-.header_navbar{
-    color: black;
-    font-family: 'Roboto', sans-serif;
-    border-radius: 4px;
+.header_navbar {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  border-radius: 4px;
 }
-.principal{
-    letter-spacing: 6px;
-    text-shadow: 0 0 8px greenyellow;
+.principal {
+  letter-spacing: 6px;
+  text-shadow: 0 0 8px greenyellow;
 }
-.Suku{
-    margin: 2rem 0 0 4rem;
-    width: 500px;
-    border-radius: 1rem;
-    box-shadow: 2px 2px 6px black;
+.Suku {
+  margin: 2rem 0 0 4rem;
+  width: 500px;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
 }
-nav{
-    margin-top: 10px;
-    background: rgb(245, 3, 3);
-    width: 100%;
-    padding: 0.5rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: sticky;
-    top: 0;
+nav {
+  margin-top: 10px;
+  background: rgb(245, 3, 3);
+  width: 100%;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
 }
-.wspContainer{
-    background-color: rgb(35, 214, 18);
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
+.wspContainer {
+  background-color: rgb(35, 214, 18);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
 
-    display: grid;
-    place-items: center;
-    box-shadow: 2px 2px 4px black;
+  display: grid;
+  place-items: center;
+  box-shadow: 2px 2px 4px black;
 }
-.wsplogo{
-    color: white;
-    font-size: 2.7rem;
+.wsplogo {
+  color: white;
+  font-size: 2.7rem;
 }
-header{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.header{
-    width: 100%;
-    max-width: 1200px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 1rem 1rem;
+.header {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 1rem;
 }
-.nabvar{
-    width: 100%;
-    max-width: 1200px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 1rem 1rem;
+.nabvar {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 1rem;
 }
-.prin2{
-    border: none;
-    border-radius: 4px;
-    height: 30px;
-    padding: 8px;
+.prin2 {
+  border: none;
+  border-radius: 4px;
+  height: 30px;
+  padding: 8px;
 }
-.prin{
-    background-color: white;
-    border-radius: 4px;
-    box-shadow: 2px 2px 4px black;
-    height: 30px;
+.prin {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px black;
+  height: 30px;
 }
-.imgSato:hover{
-    transform: translate(-4px); 
-    box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
-    transition: all 300ms;
+.imgSato:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
 }
-li:hover{
-   transform: translate(-4px); 
-   box-shadow: 4px 4px rgb(12, 9, 9);
-   transition: all 300ms;
+li:hover {
+  transform: translate(-4px);
+  box-shadow: 4px 4px rgb(12, 9, 9);
+  transition: all 300ms;
 }
-.contact_form{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.contact_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.contact_form form{
-    background: rgba(44, 174, 197, 0.507);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: 3rem;
+.contact_form form {
+  background: rgba(44, 174, 197, 0.507);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 3rem;
 }
-input{
-    margin-bottom: 2rem;
-    border-radius: 6px;
-    border: none;
-    height: 20px;
-    box-shadow: 0 0 4px #000000;
-    padding: 6px 10px
+input {
+  margin-bottom: 2rem;
+  border-radius: 6px;
+  border: none;
+  padding: 6px 10px;
 }
-.hidden{
-    visibility: hidden;
+.hidden {
+  visibility: hidden;
 }
-.contact_title{
-    width: 100%;
-    max-width: 1200px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 1rem 1rem;
+.contact_title {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 1rem;
 }
-.papu{
-    width: 120px;
-    border-radius: 100%;
+.papu {
+  width: 120px;
+  border-radius: 100%;
 }
-.contact_h1{
-    letter-spacing: 6px;
-    text-shadow: 0 0 8px greenyellow;
+.contact_h1 {
+  letter-spacing: 6px;
+  text-shadow: 0 0 8px greenyellow;
 }
-.hours_title{
-    letter-spacing: 6px;
-    text-shadow: 0 0 8px greenyellow;
+.hours_title {
+  letter-spacing: 6px;
+  text-shadow: 0 0 8px greenyellow;
 }
-.hours_table{
-    letter-spacing: 6px;
-    text-shadow: 0 0 8px greenyellow;
+.hours_table {
+  letter-spacing: 6px;
+  text-shadow: 0 0 8px greenyellow;
 }
-.hours_subtitle{
-    text-align: left;
-    letter-spacing: 6px;
-    text-shadow: 0 0 8px greenyellow;
+.hours_subtitle {
+  text-align: left;
+  letter-spacing: 6px;
+  text-shadow: 0 0 8px greenyellow;
 }
-.Suku:hover{
-    transform: translate(-4px);
-    box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
-    transition: all 300ms;
+.Suku:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
 }
-.p1{
-    font-size: 1.5rem;
-    color: rgb(76, 128, 172);
-    text-shadow: #0594f3;
-    letter-spacing: 6px;
+.p1 {
+  font-size: 1.5rem;
+  color: rgb(76, 128, 172);
+  text-shadow: #0594f3;
+  letter-spacing: 6px;
 }
-.p2{
-    font-size: 1.5rem;
-    color: rgb(184, 33, 33);
-    text-shadow: #f30505;
-    letter-spacing: 6px;
+.p2 {
+  font-size: 1.5rem;
+  color: rgb(184, 33, 33);
+  text-shadow: #f30505;
+  letter-spacing: 6px;
 }
-.school{
-    width: 500px;
-    margin: 2rem 0 0 4rem;
-    /* padding: 1,5rem; */
-    border-radius: 1rem;
-    box-shadow: 2px 2px 6px black;
+.school {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  /* padding: 1,5rem; */
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
 }
-.school:hover{
-    transform: translate(-4px);
-    box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
-    transition: all 300ms;
+.school:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
 }
-.cardcontainer{
-    display: flex;
-    justify-content: space-around;
-
+.cardcontainer {
+  display: flex;
+  justify-content: space-around;
 }
-.p3{
-    font-size: 1.5rem;
-    color: rgb(209, 230, 26);
-    text-shadow: #c9ec29;
-    letter-spacing: 6px;
+.p3 {
+  font-size: 1.5rem;
+  color: rgb(209, 230, 26);
+  text-shadow: #c9ec29;
+  letter-spacing: 6px;
 }
