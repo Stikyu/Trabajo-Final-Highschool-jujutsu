@@ -115,3 +115,45 @@ while (numero <= findelCiclo) {
 
   numero++;
 }
+
+/* Funciones */
+
+function Whatsapp(MandarAWhatsapp) {
+  console.log("Hola compañero");
+}
+
+/* convocar la función */
+
+Whatsapp();
+
+/* Funcion Flecha */
+
+/* const sumaFlecha = (num1, num2) => num1 + num2
+
+console.log(sumaFlecha(4, 10)); */
+
+/* const numero1 = 10;
+const numero2 = 30;
+
+const resta = (num1, num2) => num1 - num2;
+
+console.log(resta(numero2, numero1)); */
+
+const persona = {
+  nombre: "Sukuna",
+  edad: 30,
+  saludar: (otraPersona) => {
+    console.log(`Hola ${otraPersona}`);
+  },
+};
+console.log(persona.saludar("Sukuna"));
+
+/* window.alert("Hola gente bonita"); */
+
+/* const userName = prompt("ingrese su nombre");
+
+console.log(userName); */
+
+/* const respuestaUsuario = confirm("Satoru le gana a Sukuna");
+
+console.log(respuestaUsuario); */
