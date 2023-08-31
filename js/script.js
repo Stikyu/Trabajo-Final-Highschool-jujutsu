@@ -150,9 +150,15 @@ console.log(persona.saludar("Sukuna"));
 
 /* window.alert("Hola gente bonita"); */
 
-/* const userName = prompt("ingrese su nombre");
+const userName = prompt("ingrese su Nombre");
 
-console.log(userName); */
+console.log(userName);
+
+if (userName) {
+  alert("Ahora formas parte del grupo Jujutsu");
+} else {
+  alert("Ingrese su Nombre, Por favor");
+}
 
 /* const respuestaUsuario = confirm("Satoru le gana a Sukuna");
 

@@ -274,3 +274,9 @@ input {
   text-shadow: #c9ec29;
   letter-spacing: 6px;
 }
+
+@media (max-width: 768px) {
+  .cardcontainer {
+    flex-direction: column;
+  }
+}
