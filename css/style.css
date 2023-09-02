@@ -30,6 +30,9 @@ section {
 h1 {
   text-align: center;
 }
+h2 {
+  text-align: center;
+}
 p {
   margin: 1rem 0;
   text-align: center;
@@ -53,13 +56,6 @@ p {
   font-size: 135%;
   padding: 1rem;
   color: #0794ad;
-}
-table {
-  text-align: center;
-  margin: 2rem 10rem 6rem 10rem;
-  border: 5px solid #f30505;
-  border-radius: 1rem;
-  box-shadow: 2px 2px 6px black;
 }
 .horario {
   font-family: cursive;
@@ -115,6 +111,57 @@ body {
   width: 500px;
   border-radius: 1rem;
   box-shadow: 2px 2px 6px black;
+}
+.Shibuya {
+  margin: 2rem 0 0 4rem;
+  width: 500px;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Shibuya:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p4 {
+  font-size: 1.5rem;
+  color: rgb(61, 17, 182);
+  text-shadow: #0509f3;
+  letter-spacing: 6px;
+}
+.Shinjuku {
+  margin: 2rem 0 0 4rem;
+  width: 500px;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Shinjuku:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p5 {
+  font-size: 1.5rem;
+  color: rgb(211, 17, 201);
+  text-shadow: #ae0ebd;
+  letter-spacing: 6px;
+}
+.Kyoto {
+  margin: 2rem 1rem 0 4rem;
+  width: 420px;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Kyoto:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p6 {
+  font-size: 1.5rem;
+  color: rgb(226, 129, 17);
+  text-shadow: #bd800e;
+  letter-spacing: 6px;
 }
 nav {
   margin-top: 10px;
