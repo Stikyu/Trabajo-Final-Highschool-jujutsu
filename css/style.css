@@ -327,3 +327,212 @@ input {
     flex-direction: column;
   }
 }
+.sobrenosotros_title {
+  letter-spacing: 6px;
+  text-shadow: 0 0 8px greenyellow;
+  text-align: center;
+}
+.Nanami {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Nanami:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p7 {
+  font-size: 1.5rem;
+  color: rgb(218, 233, 6);
+  text-shadow: #2df305;
+  letter-spacing: 6px;
+}
+.Yaga {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Yaga:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p8 {
+  font-size: 1.5rem;
+  color: rgb(104, 105, 83);
+  text-shadow: #485844;
+  letter-spacing: 6px;
+}
+.MeiMei {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.MeiMei:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p9 {
+  font-size: 1.5rem;
+  color: rgb(84, 13, 199);
+  text-shadow: #eaeeea;
+  letter-spacing: 6px;
+}
+.Suguru {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Suguru:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p10 {
+  font-size: 1.5rem;
+  color: rgb(59, 53, 83);
+  text-shadow: #0c0361;
+  letter-spacing: 6px;
+}
+.Yuki {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Yuki:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p11 {
+  font-size: 1.5rem;
+  color: rgb(223, 140, 84);
+  text-shadow: #da5609;
+  letter-spacing: 6px;
+}
+.Yuta {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Yuta:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p12 {
+  font-size: 1.5rem;
+  color: rgb(235, 230, 226);
+  text-shadow: #0a0502;
+  letter-spacing: 6px;
+}
+.Shoko {
+  width: 470px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Shoko:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p13 {
+  font-size: 1.5rem;
+  color: rgb(219, 131, 236);
+  text-shadow: #624a79;
+  letter-spacing: 6px;
+}
+.Inumaki {
+  width: 525px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Inumaki:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p14 {
+  font-size: 1.5rem;
+  color: rgb(177, 171, 171);
+  text-shadow: #669add;
+  letter-spacing: 6px;
+}
+.Maki {
+  width: 470px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Maki:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p15 {
+  font-size: 1.5rem;
+  color: rgb(3, 68, 9);
+  text-shadow: #144907;
+  letter-spacing: 6px;
+}
+.Megumi {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Megumi:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p16 {
+  font-size: 1.5rem;
+  color: rgb(21, 62, 116);
+  text-shadow: #075299;
+  letter-spacing: 6px;
+}
+.Yuji {
+  width: 550px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Yuji:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p17 {
+  font-size: 1.5rem;
+  color: rgb(204, 68, 63);
+  text-shadow: #750909;
+  letter-spacing: 6px;
+}
+.Nobara {
+  width: 500px;
+  margin: 2rem 0 0 4rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 6px black;
+}
+.Nobara:hover {
+  transform: translate(-4px);
+  box-shadow: 8px 8px rgba(0, 0, 0, 0.418);
+  transition: all 300ms;
+}
+.p18 {
+  font-size: 1.5rem;
+  color: rgb(236, 81, 9);
+  text-shadow: #0bcccc;
+  letter-spacing: 6px;
+}
